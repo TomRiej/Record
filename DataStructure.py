@@ -1,4 +1,5 @@
 from datetime import datetime
+#for date and time
 
 class Record:
     def __init__(self, forename, surname, age, gender, CS_student):
